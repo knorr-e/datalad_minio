@@ -1,0 +1,1 @@
+381363d0-614b-497a-8050-a8c47fed80b7 autoenable=true bucket=test chunk=1GiB datacenter=US encryption=none exporttree=no host=minio.ikim.uk-essen.de name=git-annex port=9003 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1681823876.186088967s
